@@ -1,3 +1,8 @@
+# DEPRECATED AND REPLACED BY: 
+# https://github.com/dritter-sap/iibench
+
+
+
 iibench-mongodb [![Build Status](https://travis-ci.com/dritter-sap/iibench-mongodb.svg?branch=master)](https://travis-ci.com/dritter-sap/iibench-mongodb)
 ===============
 
